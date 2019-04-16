@@ -1,0 +1,4 @@
+- "And this is the difference between a true CS major and some hack who taught him/herself to program over the weekend and now works in ... OIT."
+- "And I said, how could I be wrong?"
+- We should be able to pick a proper merge function on the test.
+- The 26th is the last date the grad students can demonstrate inheritance to Dr. Lusth
